@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dhanush selvanayagan
-- 👀 I’m interested in Computer science, Data and Electronics
-- 📫 you can reach me at selvanayagandhanush@gmail.com
+- 👀 I ll upload the codes and related notes on things I love and find intresting.
 
 <!---
 dhanushselvanayagan/dhanushselvanayagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
